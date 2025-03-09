@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">1001 Правило</string>
+    <string name="formul">Формулировка</string>
+    <string name="example">Примеры</string>
+</resources>

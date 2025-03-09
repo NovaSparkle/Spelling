@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rules>
+    <!--ПРИСТАВКИ-->
+    <category>
+        <categoryName>Орфограммы в приставках</categoryName>
+        <chapter>SPELLING</chapter>
+
+        <rule>
+            <ruleName>Правописание приставок -ПРЕ- и -ПРИ-</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString>1. Если приставка близка по значению к словам «очень» или «весьма» или приставке пере-, пиши пре-. </mainString>
+                    <mainString>2. В глаголах со значением «осуществить, воплотить, исполнить» пиши пре-.</mainString>
+                    <mainString>3. В словах со значением приближения, присоединения, неполноты действия пиши при-.</mainString>
+                </main>
+
+                <example>
+                    <exampleString>1. Прехорошенькая = очень хорошенькая, преступить = переступить.</exampleString>
+                    <exampleString>2. Претворить замысел.</exampleString>
+                    <exampleString>3. Приморский край — край у моря, придвинуть = подвинуть ближе, приготовить = довести до готовности, пританцовывать = совершать движения, напоминающие танец.</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+
+        <rule>
+            <ruleName>Правописание гласных и согласных в приставках</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString>Пиши всегда одинаково приставки:</mainString>
+                    <mainString>null</mainString>
+                    <mainString>1. -до-, -по- и -под-;</mainString>
+                    <mainString>2. -от- и -об-, -за-;</mainString>
+                    <mainString>3. -на- и -над-.</mainString>
+                </main>
+
+                <example>
+                    <exampleString>1. Добежать, побежать, подбежать;</exampleString>
+                    <exampleString>2. Отнести, обнести, занести;</exampleString>
+                    <exampleString>3. Нарезать, надрезать.</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+
+        <rule>
+            <ruleName>Правописание приставки -С-</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString>1. Приставку -с- всегда пиши одинаково.:</mainString>
+                    <mainString>2. Не путай приставку -с- с буквой 'З', которая входит в корень слова.</mainString>
+                </main>
+
+                <example>
+                    <exampleString>1. Сменить [с], сделать [з] — приставка -с-.</exampleString>
+                    <exampleString>2. Здесь, звать, зной — корни с буквой 'З'.</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+
+        <rule>
+            <ruleName>Разделительные мягкий и твёрдый знаки</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString><![CDATA[<big><u>Пиши между согласными и гласными Е, Ё, Ю, Я, если гласные обозначают два звука:</u></big>]]></mainString>
+                    <mainString>1. В корне и суффиксе разделительный мягкий знак;.</mainString>
+                    <mainString>2. В приставке разделительный твёрдый знак.</mainString>
+                </main>
+
+                <example>
+                    <exampleString>1. Вьюга — Ь в корне -вьюг-;</exampleString>
+                    <exampleString>2. Въезд — Ъ в приставке -въ-.</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+    </category>
+
+
+    <!--МЕСТОИМЕНИЯ-->
+    <category>
+        <categoryName>Орфограммы в местоимениях</categoryName>
+        <chapter>SPELLING</chapter>
+
+        <rule>
+            <ruleName>Правописание приставок -НЕ- и -НИ- в местоимениях и местоименных наречиях</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString><![CDATA[<big><u>В отрицательных и неопределённых местоимениях и отрицательных наречиях:<u></big>]]></mainString>
+                    <mainString>1. Под ударением пиши -не-;</mainString>
+                    <mainString>2. Без ударения пиши -ни-.</mainString>
+                </main>
+                <example>
+                    <exampleString>1. Не́кто, не́что, не́когда;</exampleString>
+                    <exampleString>2. Никто́, ничто́, никогда́.</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+
+        <rule>
+            <ruleName>Правописание НЕ и НИ с местоимениями и местоименными наречиями</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString><![CDATA[<big><u>НЕ и НИ пиши слитно:</u></big>]]></mainString>
+                    <mainString>1. С местоимениями без предлога;</mainString>
+                    <mainString>2. С неопределёнными и отрицательными наречиями;</mainString>
+                    <mainString>3. в сочетаниях никто иной и ничто иное.</mainString>
+                    <mainString><![CDATA[<big><u>НЕ и НИ пиши раздельно:</u></big>]]></mainString>
+                    <mainString>1. с местоимениями с предлогом;</mainString>
+                    <mainString>2. в сочетаниях не кто иной, как и не что иное, как;</mainString>
+                    <mainString>3. с указательными, определительными и неопределёнными наречиями.</mainString>
+                </main>
+
+                <example>
+                    <exampleString><![CDATA[<big><u>Слитно:</u></big>]]></exampleString>
+                    <exampleString>1. некто;</exampleString>
+                    <exampleString>2. негде;</exampleString>
+                    <exampleString>3. никто иной не знал.</exampleString>
+                    <exampleString><![CDATA[<big><u>Раздельно:</u></big>]]></exampleString>
+                    <exampleString>1. не у кого;</exampleString>
+                    <exampleString>2. не кто иной, как ты;</exampleString>
+                    <exampleString>3. не здесь, не где-нибудь.</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+
+        <rule>
+            <ruleName>Слитное, раздельное, дефисное написание местоимений</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString><![CDATA[<big><u>Пиши слитно:</u></big>]]></mainString>
+                    <mainString>1. Неопределённые и отрицательные местоимения с НЕ и НИ, если между ними нет предлога;</mainString>
+                    <mainString>2. Местоимения с НИ в сочетаниях никто иной, ничто иное.</mainString>
+                    <mainString><![CDATA[<big><u>Пиши раздельно:</u></big>]]></mainString>
+                    <mainString>1. Неопределённые и отрицательные местоимения с НЕ и НИ, если между ними стоит предлог, и остальные разряды с НЕ и НИ в любом случае;</mainString>
+                    <mainString>2. Местоимения с кое, если между ними есть предлог;</mainString>
+                    <mainString>3. Местоимения с предлогами;</mainString>
+                    <mainString>4. Местоимения с НИ в сочетаниях не кто иной, как; не что иное, как.</mainString>
+                    <mainString><![CDATA[<big><u>Пиши через дефис:</u></big>]]></mainString>
+                    <mainString>1. С суффиксами -то-, -либо-, -нибудь-;</mainString>
+                    <mainString>2. С приставкой -кое-, если между ними нет предлога.</mainString>
+                </main>
+
+                <example>
+                    <exampleString><![CDATA[<big><u>Cлитно:</u></big>]]></exampleString>
+                    <exampleString>1. Никто.</exampleString>
+                    <exampleString><![CDATA[<big><u>Раздельно:</u></big>]]></exampleString>
+                    <exampleString>1. Не у кого, не я;</exampleString>
+                    <exampleString>2. Кое о ком;</exampleString>
+                    <exampleString>3. У этого дома.</exampleString>
+                    <exampleString><![CDATA[<big><u>Через дефис:</u></big>]]></exampleString>
+                    <exampleString>1. Кто-то;</exampleString>
+                    <exampleString>2. Кое-кто.</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+    </category>
+
+
+    <!--ПРЕДЛОГИ-->
+    <category>
+        <categoryName>Орфограммы в предлогах</categoryName>
+        <chapter>SPELLING</chapter>
+
+        <rule>
+            <ruleName>Слитное и раздельное написание предложных конструкций</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString><![CDATA[<big><u>Пиши слитно:</u></big>]]></mainString>
+                    <mainString>1. Существительные заграница, зарубеж, загород, подмышка;</mainString>
+                    <mainString>2. Наречия вначале, вглубь, вдаль, набок;</mainString>
+                    <mainString>3. Наречие напрямую.</mainString>
+                    <mainString>null</mainString>
+                    <mainString><![CDATA[<big><u>Пиши раздельно:</u></big>]]></mainString>
+                    <mainString>1. Наречные сочетания за границей, за границу, из-за границы; за рубежом, за рубеж; за́ городом, за́ город; под мышкой;</mainString>
+                    <mainString>2. Существительные с предлогами в начале, в глубь, в даль, на бок;</mainString>
+                    <mainString>3. Прилагательное с предлогом на прямую.</mainString>
+                </main>
+
+                <example>
+                    <exampleString><![CDATA[<big><u>Cлитно:</u></big>]]></exampleString>
+                    <exampleString>1. Связи с заграницей, предпочитаю загород;</exampleString>
+                    <exampleString>2. Вначале посмотри, смотри вглубь, устремился вдаль, зачесать волосы набок;</exampleString>
+                    <exampleString>2. Сказать кому-то напрямую.</exampleString>
+                    <exampleString>null</exampleString>
+                    <exampleString><![CDATA[<big><u>Раздельно:</u></big>]]></exampleString>
+                    <exampleString>1. Ехать за границу, уехать из-за границы, находиться за рубежом, держать под мышкой;</exampleString>
+                    <exampleString>2. В начале книги, в глубь зеркала, в даль далёкую, смотреть на бок телёнка;</exampleString>
+                    <exampleString>3. Свернуть на прямую дорогу.</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+    </category>
+
+
+    <!--СОЮЗЫ-->
+    <category>
+        <categoryName>Орфограммы в союзах</categoryName>
+        <chapter>SPELLING</chapter>
+
+        <rule>
+            <ruleName>Слитное и раздельное написание предложных конструкций</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString><![CDATA[<big><u>Пиши слитно:</u></big>]]></mainString>
+                    <mainString>1. Существительные заграница, зарубеж, загород, подмышка;</mainString>
+                    <mainString>2. Наречия вначале, вглубь, вдаль, набок;</mainString>
+                    <mainString>3. Наречие напрямую.</mainString>
+                    <mainString>null</mainString>
+                    <mainString><![CDATA[<big><u>Пиши раздельно:</u></big>]]></mainString>
+                    <mainString>1. Наречные сочетания за границей, за границу, из-за границы; за рубежом, за рубеж; за́ городом, за́ город; под мышкой;</mainString>
+                    <mainString>2. Существительные с предлогами в начале, в глубь, в даль, на бок;</mainString>
+                    <mainString>3. Прилагательное с предлогом на прямую.</mainString>
+                </main>
+
+                <example>
+                    <exampleString><![CDATA[<big><u>Cлитно:</u></big>]]></exampleString>
+                    <exampleString>1. Связи с заграницей, предпочитаю загород;</exampleString>
+                    <exampleString>2. Вначале посмотри, смотри вглубь, устремился вдаль, зачесать волосы набок;</exampleString>
+                    <exampleString>2. Сказать кому-то напрямую.</exampleString>
+                    <exampleString>null</exampleString>
+                    <exampleString><![CDATA[<big><u>Раздельно:</u></big>]]></exampleString>
+                    <exampleString>1. Ехать за границу, уехать из-за границы, находиться за рубежом, держать под мышкой;</exampleString>
+                    <exampleString>2. В начале книги, в глубь зеркала, в даль далёкую, смотреть на бок телёнка;</exampleString>
+                    <exampleString>3. Свернуть на прямую дорогу.</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+    </category>
+
+
+    <!--ТОЧКА-->
+    <category>
+        <categoryName>Точка, Точка с запятой</categoryName>
+        <chapter>PUNCTUATION</chapter>
+
+        <rule>
+            <ruleName>Точка</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString>1. Точка ставится в конце законченного повествовательного предложения, как полного, так и неполного</mainString>
+                    <mainString>2. Точка ставится для придания изложению большей выразительности после коротких предложений,
+                        рисующих какую-нибудь единую картину или быструю смену событий</mainString>
+                    <mainString>3. Точка ставится перед союзами и, а, но, однако и т.п., если они не связывают в одно целое
+                        предложения, а начинают собой самостоятельное предложение</mainString>
+                    <mainString>4. Точка ставится после предложения, вводящего в дальнейшее изложение, если последнее
+                        представляет собой развернутое повествование, описание или рассуждение</mainString>
+                    <mainString><![CDATA[<big><u>Пиши раздельно:</u></big>]]></mainString>
+                    <mainString>1. Наречные сочетания за границей, за границу, из-за границы; за рубежом, за рубеж; за́ городом, за́ город; под мышкой;</mainString>
+                    <mainString>2. Существительные с предлогами в начале, в глубь, в даль, на бок;</mainString>
+                    <mainString>3. Прилагательное с предлогом на прямую.</mainString>
+                </main>
+
+                <example>
+                    <exampleString>1. Является поэт с истинным талантом. Кто судья его таланту? Общество (Белинский).</exampleString>
+                    <exampleString>2. Был вечер. Небо меркло. Воды струились тихо. Жук жужжал. Уж расходились хороводы (Пушкин).</exampleString>
+                    <exampleString>3. За неделю до рождества приехал доктор Благово. И опять мы спорили и по вечерам играли на
+                        бильярде (Чехов).</exampleString>
+                    <exampleString>4. А случилось это дело вот как.
+                        Садясь в телегу к Павлу, Нежданов вдруг пришёл в весьма возбужденное состояние; а как только
+                        они выехали с фабричного двора и покатили по дороге в направлении к... (Тургенев). </exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+
+        <rule>
+            <ruleName>Точка с запятой</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString>1. Точка с запятой ставится между независимыми предложениями, объединяемыми в одно сложное
+                        предложение без помощи союзов, особенно если такие предложения значительно распространены и имеют
+                        внутри себя запятые.</mainString>
+                    <mainString>2.1. Точка с запятой ставится между независимыми предложениями, объединяемыми в одно сложное
+                        предложение и связанными между собой cоюзами "но", "однако", "всё же", "тем не менее" и т.п., особенно если эти предложения значительно
+распространены или имеют внутри себя запятые.</mainString>
+                    <mainString>2.2. Союзами "и" и "да" (в значении "и") лишь в том случае, когда они соединяют два предложения, которые без
+                        них были бы разделены точкой.</mainString>
+                    <mainString>3. Точка с запятой ставится между распространёнными однородными членами предложения, особенно
+                        если внутри хотя бы одного из них есть запятые.</mainString>
+                    <mainString>4. Точка с запятой ставится между значительно распространёнными придаточными предложениями,
+                        подчинёнными одному и тому же главному, если между придаточными нет сочинительного союза, особенно
+                        когда внутри таких придаточных имеются в свою очередь придаточные предложения</mainString>
+                    <mainString>5. Точка с запятой ставится между группами независимых предложений, а также между группами
+                        придаточных предложений, относящихся к одному главному, если необходимо указать границы между
+                        группами предложений в отличие от границ между отдельными предложениями.</mainString>
+                    <mainString>6. Точка с запятой ставится в конце рубрик перечисления, если рубрики эти не являются
+                        самостоятельными предложениями, но достаточно распространены, и особенно если внутри их уже есть
+                        какие-либо знаки препинания.</mainString>
+                </main>
+
+                <example>
+                    <exampleString>1. Между тем чай был выпит; давно запряжённые кони продрогли на снегу; месяц бледнел на западе и
+                        готов уж был погрузиться в чёрные свои тучи, висящие на дальних вершинах, как клочки
+                        разодранного занавеса (Лермонтов). </exampleString>
+                    <exampleString>2.1. У меня была только синяя краска; но, несмотря на это, я затеял нарисовать охоту (Л. Толстой).</exampleString>
+                    <exampleString>2.2. Почти каждый вечер попозже они уезжали куда-нибудь за город, в Ореанду или на водопад; и
+                        прогулка удавалась, впечатления неизменно всякий раз были прекрасны, величавы (Чехов).</exampleString>
+                    <exampleString>3. Здесь были люди из города и из станиц и хуторов, задержанные по подозрению в том, что они
+                        советские работники, партизаны, коммунисты, комсомольцы; люди, поступком или словом
+                        оскорбившие немецкий мундир; люди, скрывавшие своё еврейское происхождение; люди,
+                        задержанные за то, что они без документов, и просто за то, что они люди (Фадеев).</exampleString>
+                    <exampleString>4. Не потерплю, чтоб развратитель огнём и вздохов, и похвал младое сердце искушал; чтоб червь
+                        презренный, ядовитый точил лилеи стебелёк; чтобы двухутренний цветок увял ещё полураскрытый
+                        (Пушкин).</exampleString>
+                    <exampleString>5. В саду было множество ворон, гнёзда их покрывали макушки деревьев, они кружились около них и
+                        каркали; иногда, особенно к вечеру, они вспархивали целыми сотнями, шумя и поднимая других;
+                        иногда одна какая-нибудь перелетит наскоро с дерева на дерево, и всё затихнет... (Герцен).</exampleString>
+                    <exampleString><![CDATA[6. Такой способ употребления мин заставил предъявить к ним требования:<br><br>1) Чтобы оторвавшаяся от якоря и плавающая на поверхности мина не могла повредить
+                        натолкнувшееся на неё судно;<br>2) Чтобы при постановке заграждения не было всплывших мин, могущих указать место заграждения,
+                        и такие мины тонули;<br>3) Увеличить безопасность постановки мин;]]></exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+    </category>
+    <!--ТОЧКА-->
+    <category>
+        <categoryName>Запятая</categoryName>
+        <chapter>PUNCTUATION</chapter>
+
+        <rule>
+            <ruleName>Запятая между независимыми предложениями, объединёнными в одно сложное, и между придаточными, относящимися к одному главному</ruleName>
+            <ruleDescription>
+                <main>
+                    <mainString>1. Запятая ставится между предложениями, объединяемыми в одно сложное предложение посредством
+                        повторяющихся союзов и...и, ни...ни, или...или и т.п.</mainString>
+                    <mainString>2. Запятая ставится между предложениями, объединяемыми в одно сложное предложение посредством
+                        союзов и, да (в значении «и»), да и, или, либо, а также союзов а, и, да (в значении «но»)</mainString>
+                    <mainString>3. Запятая ставится между независимыми предложениями, объединяемыми в одно сложное без помощи союзов
+                        или посредством союзов но, однако, всё же, тем не менее, лишь в тех случаях, когда такие предложения тесно связаны
+                        между собой по смыслу</mainString>
+                    <mainString>4. Запятая ставится между придаточными предложениями, относящимися к одному главному</mainString>
+                </main>
+
+                <example>
+                    <exampleString>1. И всё тошнит, и голова кружится, и мальчики кровавые в глазах... (Пушкин).</exampleString>
+                    <exampleString>2. Море глухо роптало, и волны бились о берег бешено и гневно (М. Горький). </exampleString>
+                    <exampleString>3. Лошади тронулись, колокольчик загремел, кибитка полетела (Пушкин). </exampleString>
+                    <exampleString>4. Отец с жаром и подробно рассказал мне, сколько водится птицы и рыбы, сколько родится всяких
+                        ягод, сколько озёр, какие чудесные растут леса (С. Аксаков).</exampleString>
+                </example>
+            </ruleDescription>
+        </rule>
+    </category>
+</rules>
